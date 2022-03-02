@@ -1,0 +1,15 @@
+
+
+.current-record{
+    border: 2px solid blue;
+    background-color: #65ba7d;
+}
+thead{
+    padding: 10px;
+    background-color:green;
+    border: 2px solid #003466;
+    border-collapse:collapse ;    
+}
+tbody{
+    background-color: #003466 ;
+}
