@@ -1,0 +1,251 @@
+{
+  "Users": [
+    {
+      "id": 234567,
+      "user_name": "Anil",
+      "email": "anil@gmail.com",
+      "mobile": 7013088187,
+      "dept": "EEE"
+    },
+    {
+      "id": 167832,
+      "user_name": "Mani",
+      "email": "mani@gmail.com",
+      "mobile": 7661866846,
+      "dept": "ECE"
+    },
+    {
+      "id": 123451,
+      "user_name": "Mahesh",
+      "email": "mahesh@gmail.com",
+      "mobile": 7894567880,
+      "dept": "CIVIL"
+    },
+    {
+      "id": 207798,
+      "user_name": "Anand",
+      "email": "anand@gmail.com",
+      "mobile": 9845672338,
+      "dept": "EEE"
+    },
+    {
+      "id": 196281,
+      "user_name": "Sahaja",
+      "email": "sahaja@gmail.com",
+      "mobile": 8918395482,
+      "dept": "IT"
+    },
+    {
+      "id": 236572,
+      "user_name": "Ramani",
+      "email": "ramani@gmail.com",
+      "mobile": 9204463841,
+      "dept": "CSE"
+    },
+    {
+      "id": 234598,
+      "user_name": "Raju",
+      "email": "raju@gmail.com",
+      "mobile": 9166432042,
+      "dept": "MECH"
+    },
+    {
+      "id": 232561,
+      "user_name": "Gowrav",
+      "email": "gowrav@gmail.com",
+      "mobile": 8341265732,
+      "dept": "MATHS"
+    },
+    {
+      "id": 187245,
+      "user_name": "Suresh",
+      "email": "suresh@gmail.com",
+      "mobile": "9874329835",
+      "dept": "PHYSICS"
+    },
+    {
+      "id": 175231,
+      "user_name": "Srujana",
+      "email": "srujana@gmail.com",
+      "mobile": 9543217895,
+      "dept": "ENGLISH"
+    },
+    {
+      "id": 198231,
+      "user_name": "Dileep",
+      "email": "dileep@gmail.com",
+      "mobile": 8591132798,
+      "dept": "MECH"
+    },
+    {
+      "id": 163545,
+      "user_name": "Vamsi",
+      "email": "vamsi@gmail.com",
+      "mobile": 8939077807,
+      "dept": "IT"
+    },
+    {
+      "id": 181243,
+      "user_name": "Harini",
+      "email": "harini@gmail.com",
+      "mobile": 9908793817,
+      "dept": "ECE"
+    },
+    {
+      "id": 173246,
+      "user_name": "Harisha",
+      "email": "harisha@gmail.com",
+      "mobile": 9533727336,
+      "dept": "MATHS"
+    },
+    {
+      "id": 207794,
+      "user_name": "Rajesh",
+      "email": "rajesh@gmail.com",
+      "mobile": 9555422834,
+      "dept": "PHYSICS"
+    },
+    {
+      "id": 194321,
+      "user_name": "Ajith",
+      "email": "ajith@gmail.com",
+      "mobile": 9421387639,
+      "dept": "EEE"
+    },
+    {
+      "id": 234512,
+      "user_name": "Nidhi",
+      "email": "nidhi@gmail.com",
+      "mobile": 8342354120,
+      "dept": "CIVIL"
+    },
+    {
+      "id": 171284,
+      "user_name": "Sailu",
+      "email": "sailu@gmail.com",
+      "mobile": 9406652850,
+      "dept": "IT"
+    },
+    {
+      "id": 191286,
+      "user_name": "Priya",
+      "email": "priya@gmail.com",
+      "mobile": 9033284007,
+      "dept": "ECE"
+    },
+    {
+      "id": 164328,
+      "user_name": "Lavanya",
+      "email": "lavanya@gmail.com",
+      "mobile": 9254392861,
+      "dept": "CIVIL"
+    },
+    {
+      "id": 194512,
+      "user_name": "Gowtham",
+      "email": "gowtham@gmail.com",
+      "mobile": 8714356451,
+      "dept": "CSE"
+    },
+    {
+      "id": 187612,
+      "user_name": "Siddhu",
+      "email": "siddhu@gmail.com",
+      "mobile": 9078453226,
+      "dept": "IT"
+    },
+    {
+      "id": 206654,
+      "user_name": "Raghav",
+      "email": "raghav@gmail.com",
+      "mobile": 9345237862,
+      "dept": "CSE"
+    },
+    {
+      "id": 182352,
+      "user_name": "Sravan",
+      "email": "sravan@gmail.com",
+      "mobile": 8748932563,
+      "dept": "MECH"
+    },
+    {
+      "id": 227892,
+      "user_name": "Rahul",
+      "email": "rahul@gmail.com",
+      "mobile": 8456389214,
+      "dept": "PHYSICS"
+    }
+  ],
+  "Librarian": [
+    {
+      "id": 121311,
+      "Lib_name": "Vivek",
+      "email": "vivek@gmail.com",
+      "mobile": 8467348723,
+      "shift": "A"
+    },
+    {
+      "id": 121312,
+      "Lib_name": "Ramesh",
+      "email": "ramesh@gmail.com",
+      "mobile": 9666584245,
+      "shift": "B"
+    },
+    {
+      "id": 121313,
+      "Lib_name": "Pranavi",
+      "email": "pranav@gmail.com",
+      "mobile": 9788543218,
+      "shift": "C"
+    },
+    {
+      "id": 121314,
+      "Lib_name": "Swetha",
+      "email": "swetha@gmail.com",
+      "mobile": 9623456752,
+      "shift": "B"
+    },
+    {
+      "id": 121315,
+      "Lib_name": "Sowmya",
+      "email": "sowmya@gmail.com",
+      "mobile": 8943284875,
+      "shift": "C"
+    },
+    {
+      "id": 121316,
+      "Lib_name": "Chandu",
+      "email": "chandu@gmail.com",
+      "mobile": 9543217684,
+      "shift": "A"
+    },
+    {
+      "id": 121317,
+      "Lib_name": "Vinay",
+      "email": "vinay@gmail.com",
+      "mobile": 9255576231,
+      "shift": "B"
+    },
+    {
+      "id": 121318,
+      "Lib_name": "Karthik",
+      "email": "karthik@gmail.com",
+      "mobile": 9456238961,
+      "shift": "C"
+    },
+    {
+      "id": 121319,
+      "Lib_name": "Sravanthi",
+      "email": "sravanthi@gmail.com",
+      "mobile": 8123576429,
+      "shift": "A"
+    },
+    {
+      "id": 121320,
+      "Lib_name": "Pavan",
+      "email": "pavan@gmail.com",
+      "mobile": 9156432189,
+      "shift": "B"
+    }
+  ]
+}
