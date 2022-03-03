@@ -37,12 +37,7 @@ export default function LibrarianPage(params) {
                     "Update Librarian Data"}
                     {!toggleflag &&
                     "close"}
-            </button> 
-
-            {/* <div>
-            {toggleflag &&
-                <div><Ict2></Ict2></div>}                
-            </div>    */}
+                </button>             
 
            <div>
                 {toggleflag &&
